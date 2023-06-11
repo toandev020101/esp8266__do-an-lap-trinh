@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "esp8266__application--react-native",
+    "slug": "snack-c66fce69-d9ef-42a2-a807-0818ff662aa8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./public/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./public/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.toan020101.snackc66fce69d9ef42a2a8070818ff662aa8"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./public/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.toan020101.snackc66fce69d9ef42a2a8070818ff662aa8"
+    },
+    "web": {
+      "favicon": "./public/favicon.png"
+    },
+    "description": "Đồ án lập trình hệ thống",
+    "extra": {
+      "eas": {
+        "projectId": "09a4a018-2211-4189-a893-b737abcd7414"
+      }
+    }
+  }
+}
